@@ -86,6 +86,8 @@
     <Compile Include="Assets\Saito\Script\MapHighLight.cs" />
     <Compile Include="Assets\Saito\Script\MapStatus.cs" />
     <Compile Include="Assets\Saito\Script\SceneChange.cs" />
+    <Compile Include="Assets\Saito\Script\TestScript\TestBattleTurn.cs" />
+    <Compile Include="Assets\Saito\Script\TestScript\TestPlayerStatus.cs" />
     <Compile Include="Assets\Terasurware\Classes\Entity_MapStatus.cs" />
     <Compile Include="Assets\nakatou\script\AudioManager.cs" />
     <Compile Include="Assets\nakatou\script\BattleFlowTest.cs" />
